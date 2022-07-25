@@ -1,0 +1,21 @@
+.card {
+    position:relative;
+    margin: 13px;
+    max-width: 400px;
+}
+
+.cantidad {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+h3{
+    margin-top: 0px;
+}
+
+p{
+    height: 90px;
+}
+
