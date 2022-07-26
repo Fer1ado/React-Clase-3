@@ -27,7 +27,7 @@ const Item = ({prod, sumatotal}) =>{
     return (
     
     <>
-    <div className="card">
+    <div className="card z-depth-4">
       <div className="card-image">
         <img src={prod.fields.image.fields.file.url}/>
         <span className="card-title">{prod.fields.nombre.toUpperCase()}</span>
