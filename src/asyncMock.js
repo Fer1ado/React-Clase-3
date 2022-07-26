@@ -5,7 +5,7 @@ const products = [
       "fields": {
         "nombre": "posa macetas decorativo",
         "importe": 600.99,
-        "stock": 35,
+        "stock": 15,
         "descripcion": "estas bases de maceta únicas son especiales para tu jardín",
         "image": {
           "fields": {
@@ -19,7 +19,7 @@ const products = [
       "fields": {
         "nombre": "platos playos",
         "importe": 900.99,
-        "stock": 35,
+        "stock": 53,
         "descripcion": "Este juego de platos es el ideal para destacar tus comidas",
         "image": {
           "fields": {
@@ -33,7 +33,7 @@ const products = [
       "fields": {
         "nombre": "Platos de Postre",
         "importe": 1300.99,
-        "stock": 35,
+        "stock": 24,
         "descripcion": "Nuestros platos de postre son pequeños y versátiles",
         "image": {
           "fields": {
@@ -47,7 +47,7 @@ const products = [
       "fields": {
         "nombre": "Plato de Gres",
         "importe": 1800.99,
-        "stock": 35,
+        "stock": 6,
         "descripcion": "Los platos de Gres son especiales por su dureza y esmaltado distintivo",
         "image": {
           "fields": {
@@ -61,7 +61,7 @@ const products = [
       "fields": {
         "nombre": "Tazas de te chino",
         "importe": 500.99,
-        "stock": 24,
+        "stock": 19,
         "descripcion": "Las tasas de te chinas tienen un trabajo especial de esmalte para bebidas calientes",
         "image": {
           "fields": {
@@ -75,7 +75,7 @@ const products = [
       "fields": {
         "nombre": "Cuencos de Terracota",
         "importe": 700.99,
-        "stock": 35,
+        "stock": 84,
         "descripcion": "Los cuencos de la tierra son los indicados para organizar tus cosas",
         "image": {
           "fields": {
@@ -89,7 +89,7 @@ const products = [
       "fields": {
         "nombre": "Cuencos de Rio",
         "importe": 800.99,
-        "stock": 46,
+        "stock": 12,
         "descripcion": "Los cuencos del rio estan especialmente preparados para líquidos fermentados",
         "image": {
           "fields": {
